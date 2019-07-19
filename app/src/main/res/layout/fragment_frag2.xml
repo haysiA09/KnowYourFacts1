@@ -15,7 +15,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="It is physically impossible for you to lick your elbow. \n \n There is a company that will (for $14,000) take your ashes and compress them into a synthetic diamond to be set in jewelry for a loved one. \n \n If you sneeze too hard you can fracture a rib. If you try to suppress a sneeze you can rupture a blood vessel in your head or neck and die. If you keep your eyes open by force they can pop out."
+            android:text="It is physically impossible for you to lick your elbow. \n \n There is a company that will (for $14,000) take your ashes and compress them into a synthetic diamond to be set in jewelry for a loved one. \n \n A snail can sleep for three years"
             android:textSize="25sp" />
 
         <Button
